@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Exploring the Universe",
+      "cover_img": "https://i.postimg.cc/Wp5DDF7J/1.jpg",
+      "profile_img": "https://i.postimg.cc/JhywQgwL/boy1.png",
+      "reading_time": 10,
+      "hashtags": ["space", "exploration", "cosmology"]
+    },
+    {
+      "id": 2,
+      "title": "The Art of Cooking",
+      "cover_img": "https://i.postimg.cc/5t5yf60y/2.png",
+      "profile_img": "https://i.postimg.cc/nhCw8D3K/profile.png",
+      "reading_time": 15,
+      "hashtags": ["food", "recipes", "culinary"]
+    },
+    {
+      "id": 3,
+      "title": "Learning Python Programming",
+      "cover_img": "https://i.postimg.cc/zv48CrB4/3.png",
+      "profile_img": "https://i.postimg.cc/nhCw8D3K/profile.png",
+      "reading_time": 20,
+      "hashtags": ["python", "programming", "coding"]
+    },
+    {
+      "id": 4,
+      "title": "Mindfulness Meditation Guide",
+      "cover_img": "https://i.postimg.cc/52BbCDMk/4.jpg",
+      "profile_img": "https://i.postimg.cc/cHqzBLMR/girl2.jpg",
+      "reading_time": 12,
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    },
+    {
+      "id": 5,
+      "title": "Exploring National Parks",
+      "cover_img": "https://i.postimg.cc/zv48CrB4/3.png",
+      "profile_img": "https://i.postimg.cc/DwZR2DwX/girl1.jpg",
+      "reading_time": 18,
+      "hashtags": ["nature", "adventure", "travel"]
+    },
+    {
+      "id": 6,
+      "title": "Investing in Stocks",
+      "cover_img": "https://i.postimg.cc/5t5yf60y/2.png",
+      "profile_img": "https://i.postimg.cc/gjH1Jbhv/boy2.jpg",
+      "reading_time": 25,
+      "hashtags": ["investing", "finance", "stocks"]
+    }
+  ]
+  
